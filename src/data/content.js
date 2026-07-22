@@ -13,7 +13,7 @@ export const profile = {
   ],
   education: 'Delhi Technological University · B.Tech, Computer Science Engineering',
   gradYear: '2027',
-  cgpa: '9.345',
+  cgpa: '9.44',
   sgpa: '10.0',
   email: 'vanshchopra4122@gmail.com',
   phone: '7027814000',
@@ -27,7 +27,7 @@ export const profile = {
 }
 
 export const heroStats = [
-  { value: '9.345', label: 'CGPA' },
+  { value: '9.44', label: 'CGPA' },
   { value: '10.0', label: 'Latest SGPA' },
   { value: '450+', label: 'DSA problems solved' },
   { value: 'Top 1%', label: 'NPTEL Python (99/100)' },
